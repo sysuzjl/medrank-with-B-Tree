@@ -18,8 +18,8 @@ make
 
 ---------------------------------------------------------------------------
 * created by group 1, class 8
-* team members: HongChuanghuang,
-                ZhouJialu,
+* team members: ZhouJialu,
+                HongChuanghuang,
                 ChenZhurun,
                 SheChongbin
 * contact: 756387225@qq.com
