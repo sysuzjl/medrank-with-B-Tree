@@ -8,9 +8,9 @@ Download TRAINING SET IMAGE FILE (train-images-idx3-ubyte.gz) as dataset, and se
 Rename the dataset as Mnist.ds, the queryset as Mnist.q.
 
 example:
-copy file 'Mnist.ds', 'Mnist.q' to the directory 'data'
-make
-./medrank -n 60000 -d 784 -qn 100 -ds ./data/Mnist.ds -qs ./data/Mnist.q
+* copy file 'Mnist.ds', 'Mnist.q' to the directory 'data'
+* make
+* ./medrank -n 60000 -d 784 -qn 100 -ds ./data/Mnist.ds -qs ./data/Mnist.q
 
 ---------------------------------------------------------------------------
 * you must ensure that the input data files are text file
